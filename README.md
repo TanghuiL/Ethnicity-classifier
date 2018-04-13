@@ -12,6 +12,8 @@ The project is using the ethinicity classifications of the North American popula
 * ToDo:
 
 20180413 -- Need more face images belonging to  the following ethinc groups: 
+
 	1) Native American and Alaska Native
+
 	2) Native Hawaiian and Other Pacific Islander 
 
