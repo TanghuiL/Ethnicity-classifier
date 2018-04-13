@@ -17,3 +17,7 @@ The project is using the ethinicity classifications of the North American popula
 
 	2) Native Hawaiian and Other Pacific Islander 
 
+* Issues:
+
+Classifier based on categories, but a multi-ethnic individual can belong to more than one category. The current implementation doesn't account for this. Need ideas on how to solve this.
+
