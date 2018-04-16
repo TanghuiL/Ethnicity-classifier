@@ -1,0 +1,18 @@
+name: Ethnicity-classifier
+channels:
+  - anaconda
+dependencies:
+  - python=3.6
+  - numpy
+  - sklearn
+  - matplotlib
+  - h5py
+  - pandas
+  - PIL
+  - glob
+  - gc
+  - pip:
+    - google-images-download==2.0.4
+    - selenium==3.11.0
+    - tables==3.4.2
+prefix: /Applications/anaconda3
