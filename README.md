@@ -1,7 +1,7 @@
 # Ethnicity-classifier
-A multi-label image classifier for identifying a person's ethnicity
+A multi-label image classifier for identifying a person's ethnicity. 
 
-This is an ongoing research project on whether a neural network can learn facial features that humans attribute to as belonging to different ethinicites.
+This is an ongoing research project on whether a neural network can learn facial features that humans attribute to to different ethinicites.
 
 The project is using the ethinicity classifications of the North American population based on the United States Bureau of the Census.
 
@@ -19,7 +19,6 @@ The project is using the ethinicity classifications of the North American popula
 
 	3) Native Hawaiian and Other Pacific Islander 
 
-20180413 -- Need a better neural netowrk model, similar to FaceNet capable of differentiating facial features.
 
 * Issues:
 
